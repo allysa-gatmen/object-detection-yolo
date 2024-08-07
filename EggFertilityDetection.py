@@ -57,7 +57,7 @@ roi_coordinates1 = [
 ]
 
 # Initialize YOLO model
-model = YOLO("/home/egg/Downloads/99.pt")
+model = YOLO("/home/egg/Downloads/eggepoch20.pt")
 classNames = ['fertile', 'infertile']
 
 # Main loop
